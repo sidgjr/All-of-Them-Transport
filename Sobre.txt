@@ -1,0 +1,61 @@
+//
+//  //  Sobre
+//
+
+↪ Setup para desenvolvimento Java (VS Code).
+
+    ↪ Instalar o VS Code.
+
+        ↪ Não é o mais recomendado para o desenvolvimento de mods (mas ainda vou tentar).
+
+        ↪ Maioria dos devs usam o IntelliJ IDEA.
+
+    ↪ Instalar o JDK.
+
+        ↪ Principalmente o Adoptium, uma JDK Open-source.
+
+        ↪ Não esquecer configurar as variáveis de ambiente (se não foram feitas).
+
+            ↪ JAVA_HOME.
+
+            ↪ Path.
+
+    ↪ Instalar as extensões do VS para o Java.
+
+        ↪ Java Extension Pack.
+
+            ↪ Language Support for Java™ by Red Hat.
+
+            ↪ Debugger for Java.
+
+            ↪ Test Runner for Java.
+
+            ↪ Maven for Java.
+
+            ↪ Project Manager for Java.
+
+            ↪ IntelliCode.
+
+    ↪ Configurar a variável de ambiente no VS Code.
+
+        ↪ Ctrl+Shift+P
+
+        ↪ Preferences: Open Settings (JSON)
+
+        ↪ Em settings.json do VS Code colocar a configuração:
+
+            ↪ "java.jdt.ls.java.home": "C:\\Program Files\\Eclipse Adoptium\\jdk-21.0.4.7-hotspot"
+
+            ↪ No caso esse é o meu path, isso pode mudar de máquina para máquina, JDK para JDK.
+
+    ↪ Projeto Java.
+
+        ↪ Ctrl+Shift+P
+
+        ↪ Java: Create Java Project
+
+        ↪ Escolher o tipo de projeto
+
+        ↪ Rodar o projeto: "Run Java" ou "Debug java", apertando o botão direito em arquivo .java que tenha o método "main".
+
+↪ 
