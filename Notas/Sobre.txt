@@ -60,6 +60,30 @@
 
 ↪ Setup para desenvolvimento de Mods
 
+    ↪ Checar se há Gradle no VS Code.
+
+    ↪ Clonar o repositório do NeoForge.
+
+        ↪ MDK-1.21-ModDevGradle
+
+            ↪ Conjunto para facilitar o desenvolvimento de mods.
+
+            ↪ https://github.com/NeoForgeMDKs/MDK-1.21-ModDevGradle
+
+        ↪ MDK-1.21-NeoGradle
+
+            ↪ Estrutura mais avançada.
+
+            ↪ https://github.com/NeoForgeMDKs/MDK-1.21-NeoGradle
+
+    ↪ Só de abrir o projeto pelo VS Code ele vai configurar e baixar as dependências.
+
+    ↪ 
+
+    ↪ 
+
+    ↪ 
+
 ↪ 
 
 ↪ Fontes
