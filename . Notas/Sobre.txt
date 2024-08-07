@@ -2,6 +2,14 @@
 //  //  Sobre
 //
 
+↪ 
+
+
+
+//
+//  //  Setup
+//
+
 ↪ Setup para desenvolvimento Java (VS Code).
 
     ↪ Instalar o VS Code.
@@ -104,7 +112,41 @@
 
 ↪ 
 
-↪ Fontes
 
-    ↪ Getting Started with NeoForge
-    https://docs.neoforged.net/docs/gettingstarted/
+
+//
+//  //  Inspirações
+//
+
+↪ Banjo-Kazooie: Nuts & Bolts
+https://?
+
+↪ Trailmakers
+https://store.steampowered.com/app/585420/Trailmakers/
+
+↪ Scrap Mechanic
+https://store.steampowered.com/app/387990/Scrap_Mechanic/
+
+↪ Besiege
+https://store.steampowered.com/app/346010/Besiege/
+
+↪ Robocraft
+https://store.steampowered.com/app/301520/Robocraft/
+
+↪ Main Assembly
+https://store.steampowered.com/app/1078920/Main_Assembly/
+
+
+
+//
+//  //  Fontes
+//
+
+↪ Getting Started with NeoForge
+https://docs.neoforged.net/docs/gettingstarted/
+
+↪ NeoForge Modding Tutorials - Minecraft 1.21.X
+https://www.youtube.com/playlist?list=PLKGarocXCE1G6CQOoiYdMVx-E1d9F_itF
+
+↪ Learn Minecraft Modding with NeoForge
+courses.kaupenjoe.net/p/modding-by-kaupenjoe-neoforge-modding-for-minecraft-1-21-x
