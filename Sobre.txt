@@ -58,4 +58,11 @@
 
         ↪ Rodar o projeto: "Run Java" ou "Debug java", apertando o botão direito em arquivo .java que tenha o método "main".
 
+↪ Setup para desenvolvimento de Mods
+
 ↪ 
+
+↪ Fontes
+
+    ↪ Getting Started with NeoForge
+    https://docs.neoforged.net/docs/gettingstarted/
